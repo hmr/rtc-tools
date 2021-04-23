@@ -1,5 +1,5 @@
 #!/bin/sh
-# vim: set ft=bash ff=unix fenc=utf-8 et ts=4 sw=4 :
+# vim: set ft=sh ff=unix fenc=utf-8 et ts=4 sw=4 :
 
 # enable-rtc.sh
 # Enables hardware RTC connected via I2C bus.
